@@ -1,13 +1,11 @@
-# OmDbApi SDK written in PHP
+# node-radio-hamburg
 
 [![Software License](https://img.shields.io/badge/license-LGPL%203.0-brightgreen.svg?style=flat-square)](LICENSE)
 
-The OmDbApi SDK written in PHP provides you an easy-to-use library to communicate with the RESTful API from www.omdbapi.com!
-It is based on the HTTP Client Guzzle to be extensible as far as possible.
+The node-radio-hamburg package provides you an easy-to-use method to play the Radio Hamburg music stream via a
+command line interface.
 
-Please have a look at the examples, to learn how to handle the SDK.
-
-> Note: This SDK is still in development. Feel free to report encountered issues!
+> Note: This script is still in development. Feel free to report encountered issues!
 
 ## Requirements
 
