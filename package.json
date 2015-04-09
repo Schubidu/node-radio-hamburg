@@ -1,6 +1,6 @@
 {
   "name": "node-radio-hamburg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Node based command line script to play the Radio Hamburg Music stream via the console",
   "author": "Philipp Bräutigam <philipp.braeutigam@googlemail.com>",
   "license": "GNU LGPL v3.0",
