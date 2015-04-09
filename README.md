@@ -9,6 +9,11 @@ command line interface.
 
 ## Requirements
 
+- [x] Node.js
+- [x] NPM
+
+## Dependencies
+
 - [x] icecast (NodeJS module for parsing and/or injecting metadata with SHOUTcast/Icecast radio streams)
 - [x] lame (NodeJS native bindings to libmp3lame & libmpg123)
 - [x] speaker (Output PCM audio data to the speakers)
@@ -33,5 +38,5 @@ Open a command line interface window and execute the following command:
 + [twitter/pbraeutigam](http://twitter.com/pbraeutigam)
 
 ## License
-Copyright (c) 2015 Philipp Bräutigam
+Copyright (c) 2015 Philipp Bräutigam  
 This repository is released under the GNU LGPL v3.0 license.
